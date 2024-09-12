@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color:wheat;
+    text-align: center;
+    
+    
+}
+body{
+    background-color: rgb(77, 73, 95);
+}
+h1{
+    font-size: 50px;
+    word-spacing: 100px;
+    letter-spacing: -4px;
+    height:60px
+}
+.mutableTextContainer{
+    background-color: rgb(47, 48, 70);
+    height:400px;
+}
+#r:hover,#p:hover,#s:hover{
+    font-size: 52px;
+}
+#r:hover{
+    color:gray;
+}
+#p:hover{
+    color:white;
+}
+#s:hover{
+    color: black
+}
